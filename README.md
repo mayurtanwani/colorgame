@@ -1,3 +1,3 @@
 # Colorgame
 
-A fun project based o javascript, html and css. 
+A fun project based on javascript, html and css. 
